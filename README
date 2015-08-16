@@ -1,0 +1,18 @@
+# frontend
+
+## requirements
+
+* node v0.12.x
+* npm 2.12.x
+
+## download dependencies and build frontend
+
+    npm install
+
+## watch modification
+
+    gulp
+
+## test
+
+    npm test

@@ -1,0 +1,26 @@
+{
+  "name": "gcwe",
+  "version": "0.0.1",
+  "authors": [
+    "Guillaume Vincent <guillaume@oslab.fr>",
+    "Okiwi <contact@okiwi.org>"
+  ],
+  "license": "WTFL",
+  "homepage": "okiwi.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "toastr": "~2.1.2",
+    "foundation": "~5.5.2",
+    "font-awesome": "~4.4.0",
+    "angularfire": "~1.1.2",
+    "angular-route": "~1.4.4",
+    "angular": "~1.4.4",
+    "firebase": "~2.2.9"
+  }
+}
