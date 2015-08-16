@@ -3,7 +3,8 @@
 
     angular
         .module('app', ['ngRoute', 'firebase'])
-        .config(routeConfig);
+        .config(routeConfig)
+        .constant('toastr', toastr);
 
     routeConfig.$inject = ['$routeProvider'];
 

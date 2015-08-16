@@ -23,11 +23,14 @@ var paths = {
         'bower_components/angular/angular.min.js',
         'bower_components/angular-route/angular-route.min.js',
         'bower_components/firebase/firebase.js',
-        'bower_components/angularfire/dist/angularfire.min.js'
+        'bower_components/angularfire/dist/angularfire.min.js',
+        'bower_components/jquery/dist/jquery.min.js',
+        'bower_components/toastr/toastr.min.js'
     ],
     js: [
-        'app/app.module.js',
         'app/**/*.module.js',
+        'app/**/*.contants.js',
+        'app/**/*.service.js',
         'app/**/*.js'
     ],
     html: [
